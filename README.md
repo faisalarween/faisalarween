@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal Arween
 - 👀 I’m interested in cyber security and web development.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CSS cool effects.
 - 📫 You can reach me at arween11@gmail.com
 
 <!---
