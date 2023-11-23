@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on CSS cool effects.
 - 📫 You can reach me at arween11@gmail.com, and here is my web page, https://faisalarween.com/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=faisalarween&theme=dark&show_icons=true
